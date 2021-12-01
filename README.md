@@ -1,2 +1,3 @@
 # Projet_Apprentissage_supervis-_Cr-dits_bancaires_Donn-es_relationnelles
 Ahmed Seyfeddine GOUMEIDA
+Mohamed Erifai MAAMIR
