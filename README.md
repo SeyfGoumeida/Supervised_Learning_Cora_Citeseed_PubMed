@@ -2,4 +2,5 @@
 # Projet d'apprentissage supervisé : Crédits bancaires & Données relationnelles
 
 Ahmed Seyfeddine GOUMEIDA
+
 Mohamed Erifai MAAMIR
