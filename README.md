@@ -1,5 +1,5 @@
 # Supervised_Learning_Cora_Citeseed_PubMed
-# Projet_Apprentissage_supervis-_Crédits_bancaires_Données_relationnelles
+# Projet d'apprentissage supervisé : Crédits bancaires & Données relationnelles
 
 Ahmed Seyfeddine GOUMEIDA
 Mohamed Erifai MAAMIR
